@@ -6,5 +6,6 @@ This repository contains the research paper "Performance Analysis of Deep Transf
 
 Content
 
-Research Paper: Detailed findings and methodologies.
-Key Topics: Skin Cancer, Deep Learning, Transfer Learning, Image Classification.
+* Research Paper: Detailed findings and methodologies.
+* Model (.ipynb file): Jupyter notebook implementing the deep learning models for skin cancer classification.
+* Accepted Letter: Official acceptance letter from ICCBT 2024.
